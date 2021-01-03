@@ -1,0 +1,29 @@
+{
+  "name": "elasticsearch-client-examples",
+  "version": "0.0.1",
+  "description": "Official Elasticsearch nodejs client example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanchiShimono/elasticsearch-client-examples.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KanchiShimono/elasticsearch-client-examples/issues"
+  },
+  "homepage": "https://github.com/KanchiShimono/elasticsearch-client-examples#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "^2.2.1"
+  }
+}
